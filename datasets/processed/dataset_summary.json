@@ -1,0 +1,13 @@
+{
+  "dataset_name": "SNAP Wiki-Vote",
+  "raw_file": "wiki-Vote.txt.gz",
+  "total_lines_read": 103693,
+  "comment_lines_skipped": 4,
+  "unique_nodes": 7115,
+  "total_edges_found": 103689,
+  "duplicate_edges_removed": 0,
+  "final_relationships": 103689,
+  "nodes_file": "datasets\\processed\\nodes.csv",
+  "relationships_file": "datasets\\processed\\relationships.csv",
+  "processed_at": "2026-08-06T12:55:24.967916Z"
+}
